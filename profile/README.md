@@ -29,7 +29,7 @@ This organization is the official submission platform for the **SQL Database Gro
 | Submission deadline | **Monday, 16 November 2026** |
 | Group size | 10 students per group |
 | Presentation | In front of the class |
-| Submission method | GitHub repository + Google Form |
+| Submission method | GitHub repository + [Google Form](https://forms.gle/FQkX7o74L31XimyU9) |
 
 ---
 
