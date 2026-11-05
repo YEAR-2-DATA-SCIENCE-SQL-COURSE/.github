@@ -36,6 +36,12 @@ This organization is the official submission platform for the **SQL Database Gro
 ## Group repositories
 
 <!-- GROUPS:START -->
+| Group repository | Link |
+|---|---|
+| Alfa-Team | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/Alfa-Team) |
+| Kigali-International-Airport-Operations- | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/Kigali-International-Airport-Operations-) |
+| NYALA00 | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/NYALA00) |
+| Team-PK | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/Team-PK) |
 <!-- GROUPS:END -->
 
 More groups appear here as they are created.
