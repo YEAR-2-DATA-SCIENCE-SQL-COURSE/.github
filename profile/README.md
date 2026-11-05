@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://img.shields.io/badge/SQL-Databases-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Databases"/>
 <img src="https://img.shields.io/badge/Year_2-Data_Science-orange?style=for-the-badge" alt="Year 2 Data Science"/>
@@ -35,11 +35,8 @@ This organization is the official submission platform for the **SQL Database Gro
 
 ## Group repositories
 
-| Group repository | Link |
-|------------------|------|
-| NYALA00 | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/NYALA00) |
-| Alfa-Team | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/Alfa-Team) |
-| Kigali International Airport Operations | [Open](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/Kigali-International-Airport-Operations-) |
+<!-- GROUPS:START -->
+<!-- GROUPS:END -->
 
 More groups appear here as they are created.
 
